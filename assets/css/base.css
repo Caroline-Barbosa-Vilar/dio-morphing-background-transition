@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+
+:root {
+	--main-color: #d4a373;
+  --bg-color: #faedcd;
+	--link-activated: #ccd5ae;
+	--gradient: linear-gradient(-45deg,#fefae0,#faedcd,#e9edc9,#ccd5ae);
+	--border-color: #d4a373; 
+	--font: 'Amatic SC', sans-serif;
+}
+body {
+	color: var(--main-color);
+	font-family: var(--font);
+  font-weight: 700;
+}
