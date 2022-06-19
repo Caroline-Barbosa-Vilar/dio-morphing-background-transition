@@ -59,7 +59,7 @@ You can [access the project here](https://caroline-barbosa-vilar.github.io/dio-m
 
 Desktop:
 
-<img src=".assets/background-morphing-dio-screen.gif" alt="the desktop screen gif">
+<img src="./assets/background-morphing-dio-screen.gif" alt="the desktop screen gif">
 
 <br>
 
@@ -124,7 +124,7 @@ Você pode [acessar o projeto aqui](https://caroline-barbosa-vilar.github.io/dio
 
 Desktop:
 
-<img src=".assets/background-morphing-dio-screen.gif" alt="the desktop screen gif">
+<img src="./assets/background-morphing-dio-screen.gif" alt="the desktop screen gif">
 
 <br>
   
