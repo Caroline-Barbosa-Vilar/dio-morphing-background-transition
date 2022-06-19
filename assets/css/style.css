@@ -32,3 +32,14 @@
 	color: var(--link-activated);
 	background-color: var(--bg-color);	
 }
+@keyframes backgroundTransition {
+  0% {
+  background-position: 0% 80%;
+  }
+  50% {
+  background-position: 80% 100%;
+  }
+  100% {
+  background-position: 0% 90%;
+  }
+}
